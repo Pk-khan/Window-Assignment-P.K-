@@ -1,0 +1,272 @@
+body{
+  color:green;
+    background-color: khaki;
+}
+#ul li
+{ 
+  background-size: cover;
+  list-style: none;
+  text-decoration: none;
+  background-color: aqua;
+  text-align: center;
+  margin-bottom:5px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	padding-bottom:5px;
+	padding-left:5px;
+	padding-right:5px;
+	padding-top:5px;
+	list-style-type:none;
+	height:30px;
+	font-size:20px;
+	width:500px;
+	border:1px solid:white;
+	line-height:30px;
+
+	position:relative;
+  right:-400px;
+  top:100px;
+}
+#htmllink
+{
+  display: block;
+  width:300px;
+  height:45px;
+  position: relative;
+  top:-50px;
+  right: -70px;
+  border:orangered solid 3px;
+  border-radius: 10px;
+  
+}
+#csslink
+{
+  display: block;
+  text-decoration: none;
+  width:300px;
+  height:45px;
+  position: relative;
+  top:-95px;
+  right: -570px;
+  border:blue solid 3px;
+  border-radius: 10px;
+  
+}
+#jslink
+{
+  display: block;
+  text-decoration: none;
+  width:300px;
+  height:45px;
+  position: relative;
+  top:-145px;
+  right: -1100px;
+  border:yellowgreen solid 3px;
+  border-radius: 10px;
+  
+}
+#htmllink:hover
+{transform:scale(1.1);
+  box-shadow: 0 2px 2px 0 red;
+  border-radius: 10px;
+}
+#csslink:hover
+{transform:scale(1.1);
+  box-shadow: 0 2px 2px 0 blue;
+  border-radius: 10px;
+}
+#jslink:hover
+{transform:scale(1.1);
+  box-shadow: 0 2px 2px 0 yellow;
+  border-radius: 10px;
+}
+#home
+{
+  text-align: center;
+  background-color: darkcyan;
+  color: white;
+}
+#homeicon
+{
+  height: 35px;
+  width: 35px;
+  border-radius: 45px;
+  position: absolute;
+  top:10px;
+  left: 55px;
+}
+#backicon
+{
+  height: 35px;
+  width: 35px;
+  border-radius: 45px;
+  position: absolute;
+  top:10px;
+  left: 10px;
+}
+#nexticon
+{
+  height: 35px;
+  width: 35px;
+  border-radius: 45px;
+  position: absolute;
+  top:10px;
+  left: 1470px;
+  display: block;
+
+}
+#nexticon:hover
+{transform:scale(1.1);
+  box-shadow: 0 2px 2px 0 blue;
+}
+#backicon:hover
+{transform:scale(1.1);
+  box-shadow: 0 2px 2px 0 blue;
+}
+#homeicon:hover
+{transform:scale(1.1);
+  box-shadow: 0 2px 2px 0 blue;
+}
+#mark
+{
+	height:40px;
+	position:relative;
+	top:100px;
+  border: radius 5px;
+  padding: 0,0,0,10px;
+  line-height: 5px;
+}
+#btn1
+{
+  position: relative;
+  top:-40px;
+  right:-410px;
+}
+#btn2
+{
+  position: relative;
+  top:5px;
+  right:-375px;
+}
+#btn3
+{
+  position: relative;
+  top:50px;
+  right:-340px;
+}
+.footer
+{  position: relative;
+  top:350px;
+  text-align: center;
+  background-color: darkcyan;
+  color: white;
+}
+
+
+#html
+{
+
+    text-align: center;
+    background-color: darkcyan;
+  color: white;
+  
+}
+.para
+{
+  height:170px;
+  width: 1000px;
+  text-align: justify;
+color:darkcyan;
+
+}
+#usehtml
+{
+  height:400px;
+  width: 1000px;
+  text-align: justify;
+color:darkcyan;
+}
+#htmlimg
+{
+  position: absolute;
+  right:50px;
+  top:100px;
+  height: 500px;
+  width: 400px;
+  border: rgb(11, 128, 0) solid 5px;
+  border-radius: 10px;
+}
+#main
+{
+  position: relative;
+  right: -100px;
+}
+
+
+#css
+{
+
+    text-align: center;
+    background-color: darkcyan;
+    color: white;
+  
+}
+
+
+#csspara
+{
+  height:120px;
+  width: 1000px;
+  text-align: justify;
+  color:darkcyan;
+}
+#usecss
+{
+  height:170px;
+  width: 1000px;
+  text-align: justify;
+color:darkcyan;
+}
+#cssimg
+{
+  position: absolute;
+  right:50px;
+  top:100px;
+  height: 400px;
+  width: 400px;
+  border: white solid 5px;
+  border-radius: 10px;
+}
+
+#js
+{
+
+    text-align: center;
+    background-color: darkcyan;
+    color: white;
+}
+#jspara
+{
+  height:120px;
+  width: 1000px;
+  text-align: justify;
+color:darkcyan;
+}
+#usejs
+{
+  height:220px;
+  width: 1000px;
+  text-align: justify;
+color:darkcyan;
+}
+#jsimg
+{
+  position: absolute;
+  right:50px;
+  top:100px;
+  height: 500px;
+  width: 400px;
+  border: rgb(94, 20, 20) solid 5px;
+  border-radius: 10px;
+}
